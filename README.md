@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 Student at Riphah International University, Islamabad<br>👨‍💻 Aspiring Software Developer | DSA C++ & Front-End Development Enthusiast
+🎓 Student at Riphah International University, Islamabad<br>👨‍💻 Aspiring Software Developer | Learning DSA C++ & Front-End Development Enthusiast
 
 
 ## 🌐 Socials:
